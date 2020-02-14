@@ -1,12 +1,12 @@
-# Playwright: (commonjs, mocha, chai)
+# Playwright: (CommonJS, Mocha, Assert)
 
-[![GitHub Actions status | e2e-boilerplates/playwright-commonjs-mocha-chai](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-chai/workflows/playwright-commonjs-mocha-chai/badge.svg)](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-chai/actions?workflow=playwright-commonjs-mocha-chai)
+[![GitHub Actions status | e2e-boilerplates/playwright-commonjs-mocha-assert](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-assert/workflows/playwright-commonjs-mocha-assert/badge.svg)](https://github.com/e2e-boilerplates/playwright-commonjs-mocha-assert/actions?workflow=playwright-commonjs-mocha-assert)
 
-Playwright end-to-end test automation boilerplate project. Using CommonJS, Mocha and Chai.
+Playwright end-to-end test automation boilerplate project. Using CommonJS, Mocha and assert.
 
 ## Getting Started
 
-    git clone git@github.com:e2e-boilerplates/playwright-commonjs-mocha-chai.git
-    cd playwright-commonjs-mocha-chai
+    git clone git@github.com:e2e-boilerplates/playwright-commonjs-mocha-assert.git
+    cd playwright-commonjs-mocha-assert
     npm install
     npm run test
