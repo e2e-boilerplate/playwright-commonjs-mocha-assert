@@ -1,5 +1,5 @@
 const { chromium } = require("playwright");
-const { expect } = require("chai");
+const { strictEqual } = require("assert");
 
 let page;
 let browser;
@@ -31,7 +31,7 @@ describe("Sandbox", () => {
     await page.waitFor("h1");
     const title = await page.$eval("h1", el => el.textContent);
 
-    expect(await page.title()).to.equal("Sandbox");
-    expect(title).to.equal("Sandbox");
+    strictEqual(await page.title(), "Sandbox");
+    strictEqual(title, "Sandbox");
   });
 });
