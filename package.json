@@ -1,7 +1,7 @@
 {
-  "name": "playwright-commonjs-mocha-chai",
+  "name": "playwright-commonjs-mocha-assert",
   "version": "1.0.0",
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha and Chai.",
+  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha and Assert.",
   "scripts": {
     "test": "npx mocha spec/sandbox.spec.js",
     "lint": "npx eslint --ext .js ./ --fix"
