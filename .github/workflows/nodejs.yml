@@ -1,4 +1,4 @@
-name: playwright-commonjs-mocha-chai
+name: playwright-commonjs-mocha-assert
 
 on:
   push:
