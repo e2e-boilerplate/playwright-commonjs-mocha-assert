@@ -35,8 +35,8 @@
     "url": "git+https://github.com/e2e-boilerplates/playwright-commonjs-mocha-assert.git"
   },
   "scripts": {
-    "test": "npx mocha spec/sandbox.spec.js",
-    "lint": "npx eslint --ext .js ./ --fix"
+    "lint": "npx eslint --ext .js ./ --fix",
+    "test": "npx mocha spec/sandbox.spec.js"
   },
   "version": "1.0.0"
 }
