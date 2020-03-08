@@ -1,9 +1,9 @@
 {
-  "author": "",
+  "author": "Girma Nigusse <xgirma@gmail.com> (https://github.com/xgirma)",
   "dependencies": {
     "playwright": "0.11.1"
   },
-  "description": "Playwright end-to-end test automation boilerplate, using CommonJS, Mocha and Assert.",
+  "description": "playwright end-to-end test automation boilerplate.",
   "devDependencies": {
     "chai": "4.2.0",
     "eslint": "6.8.0",
@@ -24,7 +24,12 @@
   },
   "keywords": [
     "assert",
+    "boilerplate",
     "commonjs",
+    "e2e",
+    "e2e tests",
+    "example",
+    "integration test",
     "mocha",
     "playwright"
   ],
