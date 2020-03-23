@@ -6,8 +6,7 @@ Playwright end-to-end test automation boilerplate, Using Commonjs, Mocha and Ass
 
 ## Getting Started
 
-1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-mocha-assert.git
-
-2. cd playwright-commonjs-mocha-assert
-
-3. npm install
+    	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-mocha-assert.git
+    	2. cd playwright-commonjs-mocha-assert
+    	3. npm install
+    	4. npm run test
