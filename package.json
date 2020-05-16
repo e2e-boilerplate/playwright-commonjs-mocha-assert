@@ -28,14 +28,15 @@
   },
   "keywords": [
     "assert",
-    "boilerplate",
     "commonjs",
+    "mocha",
+    "playwright",
     "e2e",
     "e2e tests",
-    "example",
+    "boilerplate",
     "integration test",
-    "mocha",
-    "playwright"
+    "test automation",
+    "javascript"
   ],
   "license": "MIT",
   "lint-staged": {
