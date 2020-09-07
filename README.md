@@ -2,7 +2,7 @@
     
 # Playwright Boilerplate
     
-Playwright end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org) and [Commonjs](https://nodejs.org/api/assert.html).
+Playwright end-to-end test automation boilerplate, Using [Commonjs](https://requirejs.org/docs/commonjs.html), [Mocha](https://mochajs.org) and [Commonjs](https://nodejs.org/api/assert.html).. Clone or fork this repository.
     
 ## Getting Started
     	1. git clone git@github.com:e2e-boilerplate/playwright-commonjs-mocha-assert.git
