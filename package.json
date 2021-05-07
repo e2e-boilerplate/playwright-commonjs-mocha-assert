@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "chromedriver": "90.0.0",
-    "mocha": "8.3.2",
+    "mocha": "8.4.0",
     "playwright": "1.10.0"
   },
   "description": "Playwright end-to-end test automation boilerplate. Using Commonjs, Mocha and Assert.",
