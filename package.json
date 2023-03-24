@@ -4,7 +4,7 @@
     "url": "https://github.com/e2e-boilerplate/playwright-commonjs-mocha-assert/issues"
   },
   "dependencies": {
-    "chromedriver": "90.0.1",
+    "chromedriver": "111.0.0",
     "mocha": "8.4.0",
     "playwright": "1.13.1"
   },
